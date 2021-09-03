@@ -10,7 +10,7 @@
     "apollo-link-ws": "^1.0.10",
     "apollo-upload-client": "^9.1.0",
     "apollo-utilities": "^1.0.26",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.7.3",
     "graphql": "^14.0.2",
     "moment": "^2.22.2",
